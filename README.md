@@ -5,7 +5,8 @@
 Date | Discription | Check
 :-: | :-: | :-:
 4/8 | Week1. 출제경향 및 파이썬 문법 | ✅  
-4/15 | Week2. 그리디 & 구현 | ✅  
+4/15 | Week2. 그리디 | ✅  
+4/22 | Week2. 구현 | 
   
 ## Contributor  
 <pre>
