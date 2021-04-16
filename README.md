@@ -8,7 +8,7 @@ Date | Discription | Check
 4/15 | Week2. 그리디 | ✅  
 4/22 | Week2. 구현 | 
   
-## Contributor  
+## Contributors  
 <pre>
 <a href="https://github.com/bominkm"> Github :: bominkm &#128059; </a>  
 <a href="https://github.com/yunee29"> Github :: yunee29 &#128049; </a>  
